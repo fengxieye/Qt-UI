@@ -1,0 +1,2 @@
+*.h linguist-language=Qt
+*.cpp linguist-language=Qt
